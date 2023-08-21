@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+  font-family: system-ui, sans-serif;
+  color: rgb(27, 25, 25);
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  
+}
+
+
+
+input{
+  width:210px;
+  text-align: center;
+height: 30px;
+margin:block;
+margin-bottom: 12px;
+display: block;
+margin-left:auto ;
+margin-right: auto;
+
+
+}
+g{
+  color: black;
+
+
+
+}
+a{
+color:black;
+background-color: red;
+text-align: center;
+width:150px;
+height:25px;
+display: block;
+margin-left:auto ;
+margin-right: auto;
+
+
+
+}
+
+
